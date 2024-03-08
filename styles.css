@@ -1,0 +1,209 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+a{
+  color:black;
+}
+
+a:hover{
+  color: red;
+}
+
+a:visited{
+  color:navy;
+}
+
+body {
+    background-image: linear-gradient(to bottom, red, #800020, black);
+  font-family: 'Dosis', sans-serif;
+}
+
+img{
+  border: dotted;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0), 0 6px 20px 0 rgba(0, 0, 0, 0);
+}
+
+h1{
+  text-align: center;
+  text-shadow: 0 0 20px black;
+  font-size: 50px;
+  color: lavender;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+
+h2{
+  font-size: 35px;
+}
+
+p{
+  font-size: 22px;
+}
+
+li{
+  font-size: 22px;
+}
+
+.aboutme{
+  padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.aboutme:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.education{
+    padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.education:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.edu{
+  padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.edu:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.skills{
+    padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.skills:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.skill{
+  padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.skill:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.likes{
+    padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.likes:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.like{
+  padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.like:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.work{
+    padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.work:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.wor{
+  padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.wor:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.clubs{
+    padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.clubs:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.club{
+  padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.club:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.awards{
+    padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+}
+
+.awards:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.award{
+  padding: 2%;
+  margin-left: 500px;
+  margin-right: 500px;
+  text-align: center;
+  background-image: linear-gradient(to top, #818589, white);
+  margin-bottom: 50px;
+}
+
+.award:hover{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
